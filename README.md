@@ -5,7 +5,7 @@
 <!-------Stats-------> 
  <p float = "left">
   
-![Harshit's Github Stats](https://github-readme-stats.vercel.app/api?username=harshit2490&show_icons=true)
+<!-- ![Harshit's Github Stats](https://github-readme-stats.vercel.app/api?username=harshit2490&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2490&layout=compact)](https://github.com/harshit2490/github-readme-stats)
 
 </p>
