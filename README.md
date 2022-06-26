@@ -1,6 +1,14 @@
-# 👋 Hi, I’m Harshit Singh
+## 👋 Hi, I’m Harshit Singh
 
 #### Currently a final year B.tech student of ABES Engineering College from IT, with holistic knowledge of Web Development, UI, Graphics & Coding Enthusiast. Passion to keep on learning various tools, and new technologies and enjoying learning new things every day.
+
+<!-------Stats-------> 
+ <p float = "left">
+  
+![Harshit's Github Stats](https://github-readme-stats.vercel.app/api?username=harshit2490&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2490&layout=compact)](https://github.com/harshit2490/github-readme-stats)
+
+</p>
 
 ### Expertise In:
 <!---
@@ -18,14 +26,6 @@
 <li/> Filmora, After Effect
 <li/> FL Studio, Synthesia(Piano)
 </ul>
-
-<!-------Stats-------> 
- <p float = "left">
-  
-![Harshit's Github Stats](https://github-readme-stats.vercel.app/api?username=harshit2490&show_icons=true)&#160;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2490&layout=compact)](https://github.com/harshit2490/github-readme-stats)
-
-</p>
 
 <!------Contacts-------> 
 ### 📫 Reach Me ...
