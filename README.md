@@ -6,27 +6,22 @@
  <p float = "left">
   
 <!-- ![Harshit's Github Stats](https://github-readme-stats.vercel.app/api?username=harshit2490&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2490&layout=compact)](https://github.com/harshit2490/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2490&layout=compact&theme=radical)](https://github.com/harshit2490/github-readme-stats)
 
 </p>
 
-### Expertise In:
-<!--
-<img src = 'https://i.pinimg.com/564x/2d/29/4d/2d294d0612a1a14776f872a7b07c05ec.jpg' alt='' width="40" height="40">&#160;&#160;
-<br>
 
-<ul>
-<li/> C++, Python
-<li/> HTML, CSS, JS, React.js
-<li/> Firebase, Postman, MongoDB
-<li/> Github, Linux
-<li/> Android Studio (Basic)
-<li/> Figma, Sketch
-<li/> Illustartor, Photoshop
-<li/> Filmora, After Effect
-<li/> FL Studio, Synthesia(Piano)
-</ul>
+### Expertise In:
+<!-- <img src = 'https://i.pinimg.com/564x/2d/29/4d/2d294d0612a1a14776f872a7b07c05ec.jpg' alt='' width="40" height="40">&#160;&#160;
+<br>
 -->
+<p>
+&#8226; C++, Python  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  &#8226; Figma, Sketch <br>
+&#8226; HTML, CSS, JS, React  &#160;&#160;&#160;&#160;&#160;&#160;&#160; &#8226; Illustartor, Photoshop <br>
+&#8226; Firebase, Postman  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#8226; Filmora, After Effect<br>
+&#8226; Github, Linux &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#8226; FL Studio, <br> 
+&#8226; Android Studio &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  &#8226; Synthesia(Piano) <br>
+</p>
 
 <!------Contacts-------> 
 <!-- 
