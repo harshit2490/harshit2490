@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Harshit Singh
 
-#### Currently a final year B.tech student of ABES Engineering College from IT, with holistic knowledge of Web Development, UI, Graphics & Coding Enthusiast. Passion to keep on learning various tools, and new technologies and enjoying learning new things every day.
+#### B.tech graduate 2022 from ABES Engineering College from IT, with holistic knowledge of Front-end, UI & Coding Enthusiast. Passion to keep on learning various tools, and new technologies and enjoying learning new things every day.
 
 <!-------Stats-------> 
  <p float = "left">
