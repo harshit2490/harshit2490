@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">Senior Software Engineer | Frontend Developer | AI & Agentic AI Enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+AI+%7C+LangChain+Developer;Building+Agentic+AI+Applications+%F0%9F%A4%96;Always+Learning+New+Technologies+%F0%9F%9A%80" />
-</p>
-
 ---
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=harshit2490&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=harshit2490&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshit2490&layout=compact&theme=radical)
 
@@ -48,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 - Figma  - Sketch  - Adobe Illustrator  - Filmora  
+
 ---
 
 ## 🧠 Current Interests
@@ -57,40 +53,26 @@
 - ⚛️ Advanced React Architectures
 - 🧩 Generative UI Experiences
 - 📱 Cross-platform App Development
-- ☁️ Cloud & AI Integrations
 
 ---
 
 ## 🛠️ Featured Skills
 
 ```yaml
-Frontend:
-  - React.js
-  - Next.js
-  - JavaScript
-  - TypeScript
-  - HTML5
+Frontend:              AI & Automation:
+  - React.js             - LangChain
+  - Next.js              - Agentic AI
+  - JavaScript           - Prompt Engineering
+  - TypeScript           - OpenAI APIs
+  - HTML5                - Ollama
   - CSS3
 
-AI & Automation:
-  - LangChain
-  - Agentic AI
-  - Prompt Engineering
-  - RAG Pipelines
-  - OpenAI APIs
-  - Ollama
-
-Tools:
-  - Git & GitHub
-  - Firebase
-  - Postman
-  - Linux
+Tools:                 Design:
+  - Git & GitHub         - Figma
+  - Firebase             - Prototyping + Wireframing
+  - Postman              - Photoshop
+  - Linux                - Illustrator
   - VS Code
-
-Design:
-  - Figma
-  - Photoshop
-  - Illustrator
 ```
 
 ---
@@ -110,12 +92,6 @@ Design:
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 </p>
-
----
-
-## ✨ Fun Fact
-
-🎹 I also enjoy music production, piano, creative editing, and exploring futuristic technologies.
 
 ---
 
