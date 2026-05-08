@@ -6,10 +6,12 @@
 </p>
 
 ---
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=harshit2490&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=harshit2490&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshit2490&layout=compact&theme=radical)
 
 ## 👨‍💻 About Me
-
-🎓 B.Tech Graduate (2022) from **ABES Engineering College** in Information Technology  
+ 
 💼 Senior Software Engineer passionate about creating scalable and beautiful web experiences  
 🤖 Exploring **Agentic AI**, **LLMs**, **LangChain**, and AI-powered applications  
 ⚡ Strong expertise in **Frontend Development**, UI/UX, and modern JavaScript ecosystems  
@@ -33,51 +35,19 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
-
-- LangChain  
-- Agentic AI  
-- Ollama  
-- OpenAI APIs  
-- RAG Applications  
-- Prompt Engineering  
-- Streamlit  
-- Vector Databases  
-- AI Workflow Automation  
-
-### 🎨 UI/UX & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-</p>
-
-- Figma  
-- Sketch  
-- Adobe Illustrator  
-- After Effects  
-- Filmora  
+- LangChain  - Agentic AI  - Ollama  - OpenAI APIs  
+- RAG Applications  - Prompt Engineering  - Streamlit
 
 ### ☁️ Backend / Tools / Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,github,git,linux,postman,vscode,androidstudio" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshit2490&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2490&layout=compact&theme=tokyonight&hide_border=true" />
+### 🎨 UI/UX & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshit2490&theme=tokyonight&hide_border=true" />
-</p>
-
+- Figma  - Sketch  - Adobe Illustrator  - Filmora  
 ---
 
 ## 🧠 Current Interests
